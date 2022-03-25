@@ -9,7 +9,7 @@
 Summary:	Easy to use progress bars
 Name:		python-%{pypi_name}
 Version:	1.3
-Release:	4
+Release:	5
 License:	ISC
 Group:		Libraries/Python
 Source0:	https://github.com/verigak/progress/archive/%{version}.tar.gz
